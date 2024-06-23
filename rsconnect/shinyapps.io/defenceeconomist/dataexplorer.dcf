@@ -1,0 +1,13 @@
+name: dataexplorer
+title: dataexplorer
+username:
+account: defenceeconomist
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12221903
+bundleId: 8776990
+url: https://defenceeconomist.shinyapps.io/dataexplorer/
+when: 1719128722.04119
+lastSyncTime: 1719128722.04121
+asMultiple: FALSE
+asStatic: FALSE
